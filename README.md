@@ -28,3 +28,30 @@ Performance of models (from experiments):
 | XGBoost          | 92.97%   | 94.19%    | 93.80% | 93.73%   |
 | AdaBoost         | 56.23%   | 60.31%    | 53.51% | 53.99%   |
 | KNN              | 84.89%   | 88.18%    | 86.04% | 86.01%   |
+
+*(Random Forest achieved the best performance):contentReference[oaicite:0]{index=0}*
+
+# Installation & Usage
+1. Clone the repository:
+   git clone https://github.com/YOUR-USERNAME/DDoS-Detection-ML.git
+   cd DDoS-Detection-ML
+
+2. Install Dependencies:
+   pip install -r requirements.txt
+
+3. Run the project:
+   python src/Main.py
+
+# Repository Structure
+- **src/** → Python source code (`Main.py`)
+- **docs/** → Abstract, SRS, Documentation, and PPT
+- **results/** → Accuracy/Performance comparison table
+- **requirements.txt** → Required Python libraries
+- **run.bat** → Script to run the project
+
+# Authors
+- G. Kenneth (20N31A6615)  
+- G. Rohan Adithya (20N31A6617)  
+- P. Deekshitha (20N31A6646)  
+
+**Guided by**: Dr. Thota. Siva Ratna Sai
