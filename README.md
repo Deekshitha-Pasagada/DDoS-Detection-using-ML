@@ -38,10 +38,12 @@ Performance of models (from experiments):
    git clone [https://github.com/Deekshitha-Pasagada/DDoS-Detection-using-ML.git] 
    cd DDoS-Detection-using-ML
 
-3. Install Dependencies:
+2. Install Dependencies:
+   ```bash
    pip install -r requirements.txt
 
-4. Run the project:
+3. Run the project:
+   ```bash
    python src/Main.py
 
 # Repository Structure
