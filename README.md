@@ -33,7 +33,7 @@ Performance of models (from experiments):
 
 # Installation & Usage
 1. Clone the repository:
-   git clone [https://github.com/YOUR-USERNAME/DDoS-Detection-ML.git](https://github.com/Deekshitha-Pasagada/DDoS-Detection-using-ML.git)
+   git clone (https://github.com/Deekshitha-Pasagada/DDoS-Detection-using-ML.git)
    cd DDoS-Detection-ML
 
 2. Install Dependencies:
