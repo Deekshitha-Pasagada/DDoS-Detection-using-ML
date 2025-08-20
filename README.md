@@ -16,3 +16,15 @@ Detection and classification of different DDoS attacks.
 - Performance comparison across models using **Accuracy, Precision, Recall, and F1-Score**.
 - GUI-based application built with **Tkinter**.
 - Visual outputs such as confusion matrices and performance graphs.
+
+# Results
+Performance of models (from experiments):
+
+| Algorithm        | Accuracy | Precision | Recall | F1-Score |
+|------------------|----------|-----------|--------|----------|
+| Naive Bayes      | 40.14%   | 47.97%    | 45.10% | 37.58%   |
+| Random Forest    | **96.37%** | **96.78%** | **96.56%** | **96.65%** |
+| SVM              | 67.60%   | 75.25%    | 69.08% | 69.81%   |
+| XGBoost          | 92.97%   | 94.19%    | 93.80% | 93.73%   |
+| AdaBoost         | 56.23%   | 60.31%    | 53.51% | 53.99%   |
+| KNN              | 84.89%   | 88.18%    | 86.04% | 86.01%   |
