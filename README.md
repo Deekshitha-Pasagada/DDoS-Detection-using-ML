@@ -29,7 +29,7 @@ Performance of models (from experiments):
 | AdaBoost         | 56.23%   | 60.31%    | 53.51% | 53.99%   |
 | KNN              | 84.89%   | 88.18%    | 86.04% | 86.01%   |
 
-*(Random Forest achieved the best performance):contentReference[oaicite:0]{index=0}*
+**(Random Forest achieved the best performance)**
 
 # Installation & Usage
 1. Clone the repository:
