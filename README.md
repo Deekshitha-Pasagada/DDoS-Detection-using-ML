@@ -50,8 +50,8 @@ Performance of models (from experiments):
 - **run.bat** → Script to run the project
 
 # Authors
-- G. Kenneth (20N31A6615)  
-- G. Rohan Adithya (20N31A6617)  
-- P. Deekshitha (20N31A6646)  
+- Deekshitha Pasagada
+- Kenneth Gadhari
+- Rohan Adithya  
 
 **Guided by**: Dr. Thota. Siva Ratna Sai
