@@ -19,7 +19,6 @@ Detection and classification of different DDoS attacks.
 
 # Results
 Performance of models (from experiments):
-```markdown
 
 | Algorithm        | Accuracy | Precision | Recall | F1-Score |
 |------------------|----------|-----------|--------|----------|
