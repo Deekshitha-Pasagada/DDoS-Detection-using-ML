@@ -33,13 +33,14 @@ Performance of models (from experiments):
 
 # Installation & Usage
 1. Clone the repository:
-   git clone (https://github.com/Deekshitha-Pasagada/DDoS-Detection-using-ML.git)
-   cd DDoS-Detection-ML
+   git clone [https://github.com/Deekshitha-Pasagada/DDoS-Detection-using-ML.git]
 
-2. Install Dependencies:
+   cd DDoS-Detection-using-ML
+
+3. Install Dependencies:
    pip install -r requirements.txt
 
-3. Run the project:
+4. Run the project:
    python src/Main.py
 
 # Repository Structure
