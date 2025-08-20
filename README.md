@@ -45,7 +45,7 @@ Performance of models (from experiments):
 
 # Repository Structure
 - **src/** → Python source code (`Main.py`)
-- **docs/** → Abstract, SRS, Documentation, and PPT
+- **docs/** → Documentation
 - **results/** → Accuracy/Performance comparison table
 - **requirements.txt** → Required Python libraries
 - **run.bat** → Script to run the project
