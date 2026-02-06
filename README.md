@@ -1,4 +1,5 @@
 # DDoS-Detection-using-ML
+End-to-end ML pipeline for detecting DDoS attacks using feature engineering, model evaluation, and structured experimentation.
 Machine Learning-based system for detecting and classifying DDoS attacks in IoT networks using Random Forest, SVM, Naive Bayes, XGBoost, AdaBoost, and KNN.
 
 # A Novel Method to Detect the DDoS Attack in Network using Machine Learning
