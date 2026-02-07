@@ -21,11 +21,6 @@ This project implements an end-to-end machine learning pipeline to detect and cl
 - Validated input consistency and ensured fair comparison across models.
 - Used structured result summaries to support model selection decisions.
 
-
-
-# A Novel Method to Detect the DDoS Attack in Network using Machine Learning
-In this project, **Machine Learning algorithms** are used to detect and categorize Distributed Denial of Service (DDoS) threats in IoT network environments. By flooding network resources with malicious traffic, DDoS assaults block services from being accessed by authorized users. Using machine learning models, our method reliably and securely detects a wide range of attack types.
-
 # Features
 Detection and classification of different DDoS attacks.
 - Implementation of multiple ML models:
