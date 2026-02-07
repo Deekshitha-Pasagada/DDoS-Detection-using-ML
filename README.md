@@ -4,7 +4,7 @@ Machine Learning-based system for detecting and classifying DDoS attacks in IoT 
 # Overview
 This project implements an end-to-end machine learning pipeline to detect and classify DDoS attacks in IoT network traffic. Multiple classical ML models are trained, evaluated, and compared to understand how preprocessing, feature handling, and model choice impact detection performance in real-world scenarios.
 
-# Domain Lens (AI/ML + SDE + Data)
+## Domain Lens (AI/ML + SDE + Data)
 
 ### AI / ML
 - Implemented and benchmarked multiple ML classifiers for DDoS detection.
@@ -20,6 +20,7 @@ This project implements an end-to-end machine learning pipeline to detect and cl
 - Performed data preprocessing and feature preparation before model training.
 - Validated input consistency and ensured fair comparison across models.
 - Used structured result summaries to support model selection decisions.
+
 
 # Features
 Detection and classification of different DDoS attacks.
