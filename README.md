@@ -2,7 +2,8 @@
 Machine Learning-based system for detecting and classifying DDoS attacks in IoT networks using Random Forest, SVM, Naive Bayes, XGBoost, AdaBoost, and KNN.
 
 # Overview
-This project implements an end-to-end machine learning pipeline to detect and classify DDoS attacks in IoT network traffic. Multiple classical ML models are trained, evaluated, and compared to understand how preprocessing, feature handling, and model choice impact detection performance in real-world scenarios.
+This project implements an end-to-end machine learning pipeline to detect and classify DDoS attacks in IoT network traffic. Multiple classical ML models are trained, evaluated, and compared to understand how preprocessing, feature handling, and model choice impact detection performance in real-world scenarios. The project emphasizes data preprocessing, feature consistency, and reproducible evaluation as part of the ML workflow.
+
 
 ## Domain Lens (AI/ML + SDE + Data)
 
