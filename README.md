@@ -1,6 +1,28 @@
 # DDoS-Detection-using-ML
 Machine Learning-based system for detecting and classifying DDoS attacks in IoT networks using Random Forest, SVM, Naive Bayes, XGBoost, AdaBoost, and KNN.
 
+# Overview
+This project implements an end-to-end machine learning pipeline to detect and classify DDoS attacks in IoT network traffic. Multiple classical ML models are trained, evaluated, and compared to understand how preprocessing, feature handling, and model choice impact detection performance in real-world scenarios.
+
+# Domain Lens (AI/ML + SDE + Data)
+
+### AI / ML
+- Implemented and benchmarked multiple ML classifiers for DDoS detection.
+- Evaluated models using Accuracy, Precision, Recall, and F1-score.
+- Identified Random Forest as the best-performing model based on experimental results.
+
+### Software Engineering
+- Structured the project as a runnable application with a GUI for testing and demonstration.
+- Designed repeatable workflows for training, evaluation, and comparison of models.
+- Focused on reproducibility and consistency across experiments.
+
+### Data
+- Performed data preprocessing and feature preparation before model training.
+- Validated input consistency and ensured fair comparison across models.
+- Used structured result summaries to support model selection decisions.
+
+
+
 # A Novel Method to Detect the DDoS Attack in Network using Machine Learning
 In this project, **Machine Learning algorithms** are used to detect and categorize Distributed Denial of Service (DDoS) threats in IoT network environments. By flooding network resources with malicious traffic, DDoS assaults block services from being accessed by authorized users. Using machine learning models, our method reliably and securely detects a wide range of attack types.
 
@@ -18,7 +40,8 @@ Detection and classification of different DDoS attacks.
 - Visual outputs such as confusion matrices and performance graphs.
 
 # Results
-Performance of models (from experiments):
+The following table summarizes the performance of each model on the prepared dataset using standard classification metrics.
+
 
 | Algorithm        | Accuracy | Precision | Recall | F1-Score |
 |------------------|----------|-----------|--------|----------|
@@ -51,6 +74,13 @@ Performance of models (from experiments):
 - **results/** → Accuracy/Performance comparison table
 - **requirements.txt** → Required Python libraries
 - **run.bat** → Script to run the project
+
+# Future Improvements
+- Add automated scripts for training and evaluation.
+- Save model artifacts and evaluation metrics for reproducibility.
+- Package the workflow as a CLI or API for easier reuse.
+- Extend evaluation to additional datasets or traffic patterns.
+
 
 # Authors
 - Deekshitha Pasagada
