@@ -22,18 +22,14 @@ This project implements an end-to-end machine learning pipeline to detect and cl
 - Used structured result summaries to support model selection decisions.
 
 
-# Features
-Detection and classification of different DDoS attacks.
-- Implementation of multiple ML models:
-  - Random Forest
-  - Naive Bayes
-  - Support Vector Machine (SVM)
-  - XGBoost
-  - AdaBoost
-  - K-Nearest Neighbors (KNN)
-- Performance comparison across models using **Accuracy, Precision, Recall, and F1-Score**.
-- GUI-based application built with **Tkinter**.
-- Visual outputs such as confusion matrices and performance graphs.
+## Features
+- Detection and classification of DDoS attacks in IoT-style network traffic.
+- Implementation and comparison of multiple ML models:
+  - Random Forest, Naive Bayes, SVM, XGBoost, AdaBoost, KNN
+- Performance evaluation using Accuracy, Precision, Recall, and F1-score.
+- GUI-based application (Tkinter) for testing and visualization.
+- Confusion matrices and performance graphs for result interpretation.
+
 
 # Results
 The following table summarizes the performance of each model on the prepared dataset using standard classification metrics.
